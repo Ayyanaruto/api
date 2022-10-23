@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Welcome to my stream",
+      "id": 1
+    },
+    {
+      "title": "Genshin Impact",
+      "description": "Today I am going to stream one of the best Adventure Games",
+      "id": 2
+    },
+    {
+      "title": "One Piece Episode 38444",
+      "description": "Udewa Kaizoku nari otoko",
+      "id": 4
+    },
+    {
+      "title": "One Piece episode 319",
+      "description": "Udewa Kaizoku oni naru",
+      "userId": "105147535655995952052",
+      "id": 5
+    },
+    {
+      "title": "Valorant",
+      "description": "Lets Val",
+      "userId": "105147535655995952052",
+      "id": 6
+    }
+  ]
+}
