@@ -8,8 +8,9 @@ const dotenv=require("dotenv")
 server.use(middlewares)
 server.use(router)
 
-const port=3000||process.env.PORT
+const port=process.env.PORT||3000
+const host = '0.0.0.0';
 
-server.listen(port, () => {
+server.listen(port,host, () => {
   console.log('JSON Server is running')
 })
